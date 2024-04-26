@@ -6,7 +6,14 @@ Gruppuppgift - Agil Projektmetodik
          väldigt generalt.
  Dag6 -> Läste om Scrum och den sprinten. Sen började planera för sprinten.
  Dag7 -> Började ha möte för att stämma om vår sprint. Vilken board eller online plaform som vi kan använda för vår sprint. Först provade vi GitHub Board men det              gick inte bra, vi kunde inte ha flera view för våra olika board. Vi flyttade till Trello och där fick vi dela task på olika board så som     
-          (Mjukvarutveckling, Hårdvarutveckling och användarapp). Jag fick äran att fixa mjukvarutveckling. Började med första sprint om mjukvarutveckling. In the process of choosing online simulator for prototyping ang testing ( Jag har använd en online flatform så som Wokwi Simulator, Home Assistan, Node-RED och Tinkercad Circuits ). At the end I came to conclusion att använda Wokwi online simulator på grund av dess enkelhet, samt att jag är van vid det.
- Dag8 ->  Hade grupp möte igen för att stämma om uppgifter i vår första sprint. Fortsättning med min sprint     
+          (Mjukvarutveckling, Hårdvarutveckling och användarapp). Jag fick äran att fixa mjukvarutveckling. Började med första sprint om mjukvarutveckling. In the 
+          process of choosing online simulator for prototyping ang testing ( Jag har använd en online flatform så som Wokwi Simulator, Home Assistan, Node-RED och 
+          Tinkercad Circuits ). At the end I came to conclusion att använda Wokwi online simulator på grund av dess enkelhet, samt att jag är van vid det.
+ Dag8 ->  Hade grupp möte igen för att stämma om uppgifter i vår första sprint. Började koppla ihopp komponenter i Wokwi Simulator (MCU och Motor servo) och började 
+          koda och implementera MQTT.
+ Dag9 -> Fortsätting medconfiguration of MQTT koppling och testning efter blev klar gjorde jag en schema eller diagram som visar flödet av kommunikation of olika 
+         teknologier so teamet förstår det. Vi hade en snabbt möte för att visa eller presentera vad vi har gjort hittils. 
+ Dag10 -> Förvirredning för Projekt presentation.
+ 
  
 

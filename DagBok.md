@@ -1,19 +1,21 @@
 Gruppuppgift - Agil Projektmetodik
- Dag1 -> Set the Stage. Skapa en grupp, stämning på vad ska projekten ska vara. Läste om själva grupparbetes uppgift och försöka förstå allt som grävs.
- Dag2 och Dag3 -> Gather The Domain Data. Online sökning för att få på vad vi behöver för att utveckla enheten och applikation.
- Dag4 -> Läste om "User Story". Diskussion och brain storming om user story och vad kan vara equivalenta task för det.
- Dag5 -> Fick en tydligt införmation och förståelse vad user är story och hur ska vi fixa det. Ändrade helt våra user story och vår tasks för vad vi hade var 
-         väldigt generalt.
- Dag6 -> Läste om Scrum och den sprinten. Sen började planera för sprinten.
- Dag7 -> Började ha möte för att stämma om vår sprint. Vilken board eller online plaform som vi kan använda för vår sprint. Först provade vi GitHub Board men det              gick inte bra, vi kunde inte ha flera view för våra olika board. Vi flyttade till Trello och där fick vi dela task på olika board så som     
-          (Mjukvarutveckling, Hårdvarutveckling och användarapp). Jag fick äran att fixa mjukvarutveckling. Började med första sprint om mjukvarutveckling. In the 
-          process of choosing online simulator for prototyping ang testing ( Jag har använd en online flatform så som Wokwi Simulator, Home Assistan, Node-RED och 
-          Tinkercad Circuits ). At the end I came to conclusion att använda Wokwi online simulator på grund av dess enkelhet, samt att jag är van vid det.
- Dag8 ->  Hade grupp möte igen för att stämma om uppgifter i vår första sprint. Började koppla ihopp komponenter i Wokwi Simulator (MCU och Motor servo) och började 
-          koda och implementera MQTT.
- Dag9 -> Fortsätting medconfiguration of MQTT koppling och testning efter blev klar gjorde jag en schema eller diagram som visar flödet av kommunikation of olika 
-         teknologier so teamet förstår det. Vi hade en snabbt möte för att visa eller presentera vad vi har gjort hittils. 
- Dag10 -> Förvirredning för Projekt presentation.
+Dag 1 -> Stage the Stage. Skapa en grupp och sätt stämningen för vad projektet ska vara. Läs igenom själva grupparbetets uppgift och försök att förstå allt som behövs.
+
+Dag 2 och Dag 3 -> Gather The Domain Data. Genomför online-sökningar för att få reda på vad vi behöver för att utveckla enheten och applikationen.
+
+Dag 4 -> Läs om "User Story". Diskutera och brainstorma om user stories och vilka uppgifter som kan vara ekvivalenta för dem.
+
+Dag 5 -> Fick tydlig information och förståelse för vad en user story är och hur vi ska hantera det. Ändrade helt våra user stories och våra uppgifter eftersom det vi hade var väldigt generellt.
+
+Dag 6 -> Läs om Scrum och sprinten. Börja sedan planera för sprinten.
+
+Dag 7 -> Börja ha möten för att bestämma vår sprint. Vilken board eller online-plattform vi kan använda för vår sprint. Först försökte vi med GitHub Board men det gick inte bra, vi kunde inte ha flera vyer för våra olika boards. Vi flyttade till Trello där vi kunde dela upp uppgifter på olika boards såsom (Mjukvaruutveckling, Hårdvaruutveckling och Användarapp). Jag fick äran att hantera mjukvaruutvecklingen. Började med första sprinten för mjukvaruutvecklingen. I processen att välja en online-simulator för prototyper och testning (Såsom Wokwi Simulator, Home Assistant, Node-RED och Tinkercad Circuits). Wokwi Simulator, Node-RED och Home Assistant har inbyggd funktionalitet för att koppla till externa tjänster som MQTT eller HTTP. Till slut kom jag fram till att använda Wokwi på grund av dess enkelhet, samt att jag är van vid den.
+
+Dag 8 -> Hade ett grupp-möte igen för att bestämma uppgifterna för vår första sprint. Började koppla ihop komponenter i Wokwi Simulator (MCU och Servomotor) och började koda och implementera MQTT.
+
+Dag 9 -> Fortsatte med konfiguration av MQTT anslutning from ESP32 till MQTT Broker Server och testning. När det var klart gjorde jag ett schema eller diagram som visar flödet av kommunikation mellan olika teknologier så att teamet förstår det. Vi hade ett snabbt möte för att visa eller presentera vad vi hade åstadkommit hittills.
+
+Dag 10 -> Förberedelse för projekt-presentationen.
  
  
 

@@ -1,1 +1,1 @@
-Reflection
+Vi fick välja mellan "smart dörrklocka" och "växt bevattningssystem" i vår projekt. Jag hade föreslagit bevattningssystem på grund av smart dörrklockan är för vanligt. Andra tyckte det också så förstå idéan produkt är för bevattningssystem. 

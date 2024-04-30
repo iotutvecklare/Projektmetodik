@@ -10,7 +10,7 @@ Min tidigare erfarenhet som IoT-utvecklare under min praktiktid gav mig en förd
 
 På den sista dagen dök ytterligare en fråga upp: Ska vi utveckla en inbyggd motoriserad/elektrisk kulventil/zonventil, vilket innebär att en MCU är inbyggd i den, eller ska vi använda en färdig motoriserad/elektrisk kulventil/zonventil och koppla en MCU till den?
 
-Ärligt talat, det är svårt att planera när man inte har fullständig förståelse för alla aspekter. Därför skapade jag ett diagram för att säkerställa att teamet verkligen förstod de olika begreppen och teknologierna bakom projektet. Att ha en klar och tydlig översikt över olika faktorer bidrog till att underlätta planeringsprocess och säkerställer att alla kommer vara på samma sida när det gäller projektets mål och krav.
+Ärligt talat, det är svårt att planera när man inte har fullständig förståelse för alla aspekter. Därför skapade jag ett diagram ( lucid diagram av vår projekt https://lucid.app/lucidchart/75c41649-13c2-4c36-9b30-b9f4bd0b740e/edit?invitationId=inv_7fc4507a-2d27-498c-9fe6-189b77c13b73&page=0_0# ) för att säkerställa att teamet verkligen förstod de olika begreppen och teknologierna bakom projektet. Att ha en klar och tydlig översikt över olika faktorer bidrog till att underlätta planeringsprocess och säkerställer att alla kommer vara på samma sida när det gäller projektets mål och krav.
 
 
 

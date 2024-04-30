@@ -2,4 +2,7 @@ Vid projektets början ställdes vi inför valet mellan att utveckla antingen en
 
 Min tidigare erfarenhet som IoT-utvecklare under min praktiktid gav mig en fördel i detta projekt, och min pågående praktik som Fullstack-utvecklare i ett nystartat företag har gett mig ytterligare insikter och kunskaper. Genom dessa erfarenheter har jag förvärvat kunskap om olika mjukvaruteknologier som kan vara relevanta för att förstå och planera projektet.
 
-Ärligt talat, det är svårt att planera när man inte har fullständig förståelse för alla aspekter. Därför skapade jag ett diagram för att säkerställa att teamet verkligen förstod de olika begreppen och teknologierna bakom projektet. Att ha en klar och tydlig översikt över dessa faktorer bidrog till att underlätta vår planeringsprocess och säkerställde att alla var på samma sida när det gäller projektets mål och krav
+Ärligt talat, det är svårt att planera när man inte har fullständig förståelse för alla aspekter. Därför skapade jag ett diagram för att säkerställa att teamet verkligen förstod de olika begreppen och teknologierna bakom projektet. Att ha en klar och tydlig översikt över dessa faktorer bidrog till att underlätta vår planeringsprocess och säkerställer att alla kommer vara på samma sida när det gäller projektets mål och krav
+
+Under de tio dagarna av vårt projektarbete genomförde vi flera viktiga steg enligt vår agila projektmetodik. Från att initialt stagea scenen och sätta stämningen för projektet till att slutligen förbereda oss för presentationen, var varje steg en viktig del av vår process.
+

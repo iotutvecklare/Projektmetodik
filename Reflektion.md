@@ -1,3 +1,2 @@
-Vi fick välja mellan "smart dörrklocka" och "växt bevattningssystem" i vår projekt. Jag hade föreslagit växtbevattningssystem på grund av smart dörrklockan är för vanligt. Andra tyckte det också så förstå idéan produkt är för bevattningssystem.
-Så vår resa börjar med att utveckla en produkt för 
-växtbevattningssystem. Första dagen handlade bara om stage om att läsa 
+
+Vid projektets början ställdes vi inför valet mellan att utveckla antingen en "smart dörrklocka" eller ett "växtbevattningssystem". Efter diskussion inom gruppen föreslog jag att vi skulle satsa på ett växtbevattningssystem med argumentet att en smart dörrklocka kan vara för vanlig och att vi hade möjlighet att skapa något unikt inom växtbevattningens område. Detta förslag fick stöd av andra i gruppen och vi beslutade att fokusera på att utveckla en produkt inom detta område.

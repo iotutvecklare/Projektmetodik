@@ -1,8 +1,10 @@
+Under de tio dagarna av vårt projektarbete genomförde vi flera viktiga steg enligt vår agila projektmetodik. Från att initialt stages scenen och sätta stämningen för projektet till att slutligen förbereda oss för presentationen, var varje steg en viktig del av vår process.
+
 Vid projektets början ställdes vi inför valet mellan att utveckla antingen en "smart dörrklocka" eller ett "växtbevattningssystem". Efter diskussion inom gruppen föreslog jag att vi skulle satsa på ett växtbevattningssystem med argumentet att en smart dörrklocka kan vara för vanlig och att vi hade möjlighet att skapa något unikt inom växtbevattningens område. Detta förslag fick stöd av andra i gruppen och vi beslutade att fokusera på att utveckla en produkt inom detta område. Teamet ville att växtbevattningssystemet skulle vara en smart produkt (att det går att styra via telefon). 
 
 Min tidigare erfarenhet som IoT-utvecklare under min praktiktid gav mig en fördel i detta projekt, och min pågående praktik som Fullstack-utvecklare i ett nystartat företag har gett mig ytterligare insikter och kunskaper. Genom dessa erfarenheter har jag förvärvat kunskap om olika mjukvaruteknologier som kan vara relevanta för att förstå och planera projektet.
 
 Ärligt talat, det är svårt att planera när man inte har fullständig förståelse för alla aspekter. Därför skapade jag ett diagram för att säkerställa att teamet verkligen förstod de olika begreppen och teknologierna bakom projektet. Att ha en klar och tydlig översikt över dessa faktorer bidrog till att underlätta vår planeringsprocess och säkerställer att alla kommer vara på samma sida när det gäller projektets mål och krav
 
-Under de tio dagarna av vårt projektarbete genomförde vi flera viktiga steg enligt vår agila projektmetodik. Från att initialt stages scenen och sätta stämningen för projektet till att slutligen förbereda oss för presentationen, var varje steg en viktig del av vår process.
+
 
